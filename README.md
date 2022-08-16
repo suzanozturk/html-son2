@@ -1,6 +1,6 @@
 
-# Kodluyoruz Ödev 3
+# Kodluyoruz Bölüm Sonu Ödevi
 
-Bu repoda HTML eğitiminin 3. ödevi bulunmaktadır. 
+Bu repoda HTML eğitiminin son ödevi bulunmaktadır. 
 
 Ödevin konusu: Bir tatlı tarifinin web sitesini, HTML etiketlerini kullanarak yazmaya çalıştım.
